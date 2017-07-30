@@ -6,12 +6,14 @@ Telegram bot that lets you clear the custom keyboard with ease and in a minimal,
 
 Debian and debian-based distros:
 
-```$ sudo apt install php php-curl curl
+```
+$ sudo apt install php php-curl curl
 ```
 
 ## Running the bot
 
-```$ chmod +x KeyboardDisablerBot.php
+```
+$ chmod +x KeyboardDisablerBot.php
 $ ./KeyboardDisablerBot.php --token="Your Bot Token Here"
 ```
 
